@@ -12,3 +12,4 @@ My weird solution of Advent of Code 2019. Mostly in C# 8 (.Net Core 3.1)
 | 04 |  Secure Container | [:heavy_check_mark:](day04part1.cs) | [:heavy_check_mark:](day04part2.cs) |
 | 05 |  Sunny with a Chance of Asteroids | [:heavy_check_mark:](day05part1.cs) | [:heavy_check_mark:](day05part2.cs) |
 | 06 |  Universal Orbit Map | [:heavy_check_mark:](day06.cs) | [:heavy_check_mark:](day06.cs) |
+| 07 |  Amplification Circuit | [:heavy_check_mark:](day07part1.cs) | [:heavy_check_mark:](day07part2.cs) |
